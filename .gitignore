@@ -1,0 +1,10 @@
+venv/
+vertex_env/
+vertex_env_clean/
+
+google-cloud-cli-467.0.0-darwin-arm.tar.gz
+google-cloud-sdk-449.0.0-darwin-arm.tar.gz
+google-cloud-sdk/
+
+main.pt
+.vscode/
